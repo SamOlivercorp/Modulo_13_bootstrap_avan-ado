@@ -1,0 +1,51 @@
+section {
+    text-align: center;
+    padding-top: 70px;
+    background-color: #fff;
+
+}
+
+#navbar .active{
+    border-bottom: 5px solid rgb(99, 4, 99);
+}
+
+.nav a,
+.nav a:hover {
+    color: rgb(99, 4, 99);;
+}
+
+header {
+    position: sticky;
+    top: 0;
+    left: 0;
+    background-color: #fff;
+    z-index: 1000;
+}
+
+#textarea-form {
+    max-height: 200px;
+    resize: none;
+}
+
+footer {
+    background-color: rgb(99, 4, 99);;
+    color: #fff;
+}
+
+.card-body button {
+    
+    justify-content: end;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link  {
+    background-color: rgb(99, 4, 99);;
+}
+
+.btn-primary {
+    background-color: rgb(99, 4, 99);;
+    border-color: rgb(99, 4, 99);;
+}
+
+a {
+    color: rgb(99, 4, 99);;
+}
